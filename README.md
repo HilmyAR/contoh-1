@@ -1,1 +1,5 @@
 # contoh-1
+langkah-langkah membuat lampu menyala
+1.siapkan lampu,kabel,batrai
+2.sambungkan kabel ke batrai
+3 lalu sambungkan lampu
